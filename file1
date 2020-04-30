@@ -1,1 +1,9 @@
-hi hello
+hi hello 
+In this program 
+We used 
+git init
+git --config {files}
+added two files 
+git rm --cached filename  (or) git reset filename
+git log
+git log --oneline --graph --decorate --reflog
