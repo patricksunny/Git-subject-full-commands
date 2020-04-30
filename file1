@@ -9,3 +9,6 @@ git log
 git log --oneline --graph --decorate --reflog
 git status
 check the status of the files
+few more Operations are done in this methodologies.
+kindly review the corrections done.
+
