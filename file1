@@ -7,3 +7,5 @@ added two files
 git rm --cached filename  (or) git reset filename
 git log
 git log --oneline --graph --decorate --reflog
+git status
+check the status of the files
