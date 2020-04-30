@@ -1,9 +1,15 @@
 hi hello 
 In this program 
 We used 
+all kinds of 
+prohramming languages
+kindly
+read n practice all the 
+given notes
 git init
 git --config {files}
-added two files 
+added two files.
+throughly
 git rm --cached filename  (or) git reset filename
 git log
 git log --oneline --graph --decorate --reflog
